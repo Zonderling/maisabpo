@@ -1,0 +1,9 @@
+﻿  ReedSolomon.cpp
+C:\Users\Антон\Downloads\ReedSolomon-master\ReedSolomon\ReedSolomon.cpp(542,18): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Антон\Downloads\ReedSolomon-master\ReedSolomon\ReedSolomon.cpp(593,106): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ReedSolomonTest.cpp
+C:\Users\Антон\Downloads\ReedSolomon-master\ReedSolomon\ReedSolomonTest.cpp(29,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Антон\Downloads\ReedSolomon-master\ReedSolomon\ReedSolomonTest.cpp(143,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Антон\Downloads\ReedSolomon-master\ReedSolomon\ReedSolomonTest.cpp(204,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  maisabpoSolomon.vcxproj -> C:\Users\Антон\source\repos\maisabpoSolomon\x64\Debug\maisabpoSolomon.exe
